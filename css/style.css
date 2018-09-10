@@ -1,0 +1,59 @@
+#section{
+	background-color: white;
+	margin-top: 40px;
+	background-image: url(../images/STANDARD g.jpg);
+	margin-left: 0px
+
+}
+
+#head{
+	margin-top: 0px;
+	text-align: right;
+	background-color: yellow;
+	color: black;
+	padding-left: 0px;
+	padding-top: 15px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	margin-left: 0px;
+	border-radius: 10px;
+	border-color: black;
+	border-style: block;
+	border-width: 2px;
+	font-family: Devil Breeze;
+
+}
+
+section, html {height: 100%}
+}
+
+
+
+	#nav-icons{
+		float:right;
+		width: 97.3%;
+	}
+
+image{
+	align-content: center;
+	float: center;
+	width: 97.3%;
+}
+
+ li {
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	padding: 15px;
+	color: black;
+}
+footer{
+	text-align: center;
+	margin-top: 500px
+}
+
+h1,p{
+	text-align: center;
+	font-family: Cambria;
+}
+
